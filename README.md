@@ -1,5 +1,4 @@
 # Word Stemming Example
-Bu repository, Natural Language Toolkit (nltk) kütüphanesini kullanarak kelimeleri köklerine ayırma (stemming) işlemi gerçekleştiren bir Python örneğidir. Bu proje, verilen kelimeleri kök biçimlerine indirger.
 
 ## Proje Özeti
 Bu Python kodu, nltk kütüphanesindeki ``PorterStemmer`` sınıfını kullanarak kelimelerin köklerine indirgenmesini sağlar. Kullanıcıdan alınan kelimeler, Porter algoritmasıyla kök biçimlerine dönüştürülür.
